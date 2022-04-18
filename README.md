@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 
-- 🌱 I’m currently **I am looking for a job as a front end developer, now doing projects to improve my experiences**
+- 🌱 I’m currently **looking for a job as a front end developer, now doing projects to improve my experiences**
 
 - 💬 Ask me about **React.js , Angular ,javascript**
 
